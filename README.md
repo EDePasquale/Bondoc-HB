@@ -1,5 +1,5 @@
 # EZH2 Overexpression in Hepatoblastoma: Implications for Mitotic Regulation and Therapeutic Potential
-![GraphicalAbstract](Figure- EZH2 model.png)
+![GraphicalAbstract](Figure_EZH2_model.png)
 
 ## Paper Citation
 TBD
