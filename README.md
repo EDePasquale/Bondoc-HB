@@ -10,6 +10,7 @@ Hepatoblastoma (HB) is the most common pediatric liver malignancy, yet its cellu
 ## Processing Steps
 ### Main Pipeline Scripts
 The following scripts were used in order to perform the following tasks: 
+
 0. Integration and label transfer for all samples (0_seurat_log_noLung.R)
 1. Integration and label transfer for background samples only (1_seurat_log_background.R)
 2. Perform subclustering on background (2_Subcluster_Background.R)
