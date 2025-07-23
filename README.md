@@ -19,3 +19,5 @@ The following scripts were used in order to perform the following tasks:
 5. Subcluster at various additional resolutions and create h5ad file for final object (5_MultiRes_and_h5ad.R)
 6. All code required to create the panels for the first single-cell figure (6_8Nov2024_PrelimFigs_scFig1.R)
 7. All code required to create the panels for the second single-cell figure (7_11Dec2024_PrelimFigs_scFig2.R)
+
+Please note that only non-lung background and tumor samples were include in generation of the final images and datasets utilized in this publication, and therefore only these samples are included in the GEO data repository. PDX and other excluded samples are included in the above code, but were removed from the analysis prior to starting the manuscript, and therefore these samples were excluded from GEO.
