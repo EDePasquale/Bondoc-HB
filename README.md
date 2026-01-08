@@ -2,7 +2,7 @@
 ![GraphicalAbstract](Figure_EZH2_model.png)
 
 ## Paper Citation
-TBD
+BioRxiv: <https://www.biorxiv.org/content/10.1101/2025.07.30.667506v1>
 
 ## Project Description
 Hepatoblastoma (HB) is the most common pediatric liver malignancy, yet its cellular origins and molecular drivers remain poorly defined. Using single-nuclear RNA sequencing (snRNA-seq), we identified a proliferative, hepatocyte-derived tumor cell population (cycling HepT) enriched for EZH2 expression, particularly in the aggressive embryonal subtype. Integrative genomic and transcriptomic profiling confirmed EZH2 overexpression. Disruption of the PRC2 complex was evident through mislocalization and reduced expression of SUZ12, a core component. EZH2 overexpression correlated with upregulation of mitotic regulators such as AURKB and Ki67 in human HB gene expression analysis as compared to background liver. Targeted sequencing identified variants of uncertain significance in EZH2 and SUZ12 in 11 of 11 patient tumors. Pharmacologic inhibition of EZH2 with EPZ-6438 reduced proliferation and sensitized HB cells to cisplatin through gene regulation, potentially modulating platinum accumulation both in vitro and in vivo. In summary, EZH2 promotes HB progression through both epigenetic silencing and noncanonical signaling pathways. These findings support EZH2’s contribution to HB pathogenesis, therefore identifying it as a novel therapeutic target 
